@@ -27,9 +27,9 @@ dependencies {
 
     compileOnly project(':godot-lib.release')
 
-    api ('com.adjust.sdk:adjust-android:4.21.1')
-    api ('com.android.installreferrer:installreferrer:1.1.2')
-    api ('com.google.android.gms:play-services-ads-identifier:16.0.0')
+    api ('com.adjust.sdk:adjust-android:4.33.5')
+    api ('com.android.installreferrer:installreferrer:2.2')
+    api ('com.google.android.gms:play-services-ads-identifier:18.0.1')
 
     implementation 'androidx.appcompat:appcompat:1.1.0'
     testImplementation 'junit:junit:4.12'
