@@ -1,4 +1,4 @@
-![image](https://github.com/lettdev/godot-android-adjust-plugin/assets/24779254/8ddd908c-481d-4ddd-a97e-fa183913ad76)# Godot Android Adjust Plugin
+# Godot Android Adjust Plugin
 This is Android Adjust plugin for Godot 3.2.2 or higher.
 
 ## How to use
