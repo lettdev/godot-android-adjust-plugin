@@ -6,8 +6,10 @@ This is Android Adjust plugin for Godot 3.2.2 or higher.
 * Go to Releases (on the right of this repository page) and download a released version. It is a ZIP file containing 2 files: "aar" of the plugin and "gdap" file describing it,
 * Extract the contents of the released ZIP file to res://android/plugins directory of your Godot project
 * On Godot platform choose: Project -> Export -> Options and make sure turn on the "Use Custom Build" and "Godot Adjust" on the "Plugins" section:
+
 ![Annotation 2020-07-24 213436](https://user-images.githubusercontent.com/3739222/88424072-9644e300-cdf5-11ea-9a1d-9d282b70550e.png)
 * Remember to enable these extra permissions: **Access Network State**, **Access Wi-Fi State** and **Internet** so the plugin can send events to Adjust.
+
 ![permissions](https://github.com/lettdev/godot-android-adjust-plugin/assets/24779254/fca325e8-04ef-4d4c-bb4a-beac6a326c9f)
 
 
